@@ -358,8 +358,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="168.96453"
-     inkscape:cy="78.390846"
+     inkscape:cx="2.5359586"
+     inkscape:cy="221.24799"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -380,7 +380,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -509,7 +509,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:14.03793526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
+       style="font-size:14.03793525999999936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477000000387%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#18263a;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
        x="321.77856"
        y="285.63022"
        id="text9969"
@@ -529,7 +529,7 @@
          y="319.32126">CSS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14.03793526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
+       style="font-size:14.03793525999999936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477000000387%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#18263a;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
        x="316.43524"
        y="127.48119"
        id="text9977"
@@ -541,7 +541,7 @@
          y="127.48119">Javascript</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14.03793526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
+       style="font-size:14.03793525999999936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477000000387%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#18263a;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
        x="184.27177"
        y="205.61969"
        id="text9981"
@@ -594,7 +594,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:14.03793526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
+       style="font-size:14.03793525999999936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:120.00000477000000387%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#18263a;fill-opacity:1;stroke:none;display:inline;font-family:TeX Gyre Heros;-inkscape-font-specification:TeX Gyre Heros"
        x="190.54587"
        y="372.51257"
        id="text9995"
@@ -614,7 +614,7 @@
          y="406.20361">Proteus</tspan></text>
     <path
        sodipodi:type="arc"
-       style="fill:#18263a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.79968619;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#18263a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.79968619000000007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="path10003"
        sodipodi:cx="111.62186"
        sodipodi:cy="116.45585"
@@ -724,7 +724,7 @@
        sodipodi:cy="674.78662"
        sodipodi:rx="22.159212"
        sodipodi:ry="23.0282"
-       d="m 264.17256,674.78662 c 0,12.71812 -9.92101,23.0282 -22.15921,23.0282 -12.23819,0 -22.15921,-10.31008 -22.15921,-23.0282 0,-12.71812 9.92102,-23.0282 22.15921,-23.0282 12.2382,0 22.15921,10.31008 22.15921,23.0282 z"
+       d="m 264.17256,674.78662 a 22.159212,23.0282 0 1 1 -44.31842,0 22.159212,23.0282 0 1 1 44.31842,0 z"
        transform="matrix(0.00426831,0.3615943,-0.34868579,0.00409857,488.36994,386.40176)" />
   </g>
 </svg>
