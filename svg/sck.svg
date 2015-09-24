@@ -14,7 +14,7 @@
    id="svg10048"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="git.svg">
+   sodipodi:docname="sck.svg">
   <defs
      id="defs10050" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="83.943013"
+     inkscape:cx="6.6663438"
      inkscape:cy="46.500392"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
     <path
        id="path7570"
        d="m 5.3092912,382.2907 63.9999998,0 0,-25 -53.33333,0 0,-5 53.33333,0 0,-10 -63.9999998,0 0,25 53.3333298,0 0,5 -53.3333298,0 z"
-       style="fill:#000000;fill-opacity:1;display:inline"
+       style="fill:#18263a;fill-opacity:1;display:inline"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
